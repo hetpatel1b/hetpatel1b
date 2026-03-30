@@ -95,6 +95,18 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 <div align=center>
+
+  <a href="https://github.com/hetpatel1b">
+    <p align="center">
+     <img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/>
+     <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hetpatel1b&theme=github_dark>
+      <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
+      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetpatel1b&theme=github_dark&hide_border=true"/>
+      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetpatel1b&theme=github_dark&border_color=white"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
+
+</a>
+<div align=center>
  
   <a href="https://github.com/hetpatel1b">
     <p align="center">
