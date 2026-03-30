@@ -112,8 +112,7 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
     <p align="center">
      <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=dark&border_colour=white&icon_color=ff4080&title_color=White&hide_border=true&text_color=c8c8c8&count_private=true&rank_icon=github"/>
       <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
-      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetpatel1b&theme=dark&hide_border=true"/>
-      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetpatel1b&theme=dark&border_color=white"/>
+      
       <img heigth="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel1b&langs_count=20&layout=compact&theme=synthwave&bg_color=070d0d&border_color=white&title_color=orange&text_color=white&hide_border=true"/>
 
   </a>
