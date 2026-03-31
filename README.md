@@ -1,5 +1,5 @@
 <p align="center"><img src="https://gitlyy.vercel.app/api/profile?username=hetpatel1b&hide_border=true"/>
-<img src="https://gitlyy.vercel.app/api/commits?username=hetpatel1b&layout=compact&hide_border=true"/></p>
+</p>
 
 👋 Hi, I'm Het Patel  
 
