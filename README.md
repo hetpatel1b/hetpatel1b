@@ -111,7 +111,7 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
   <a href="https://github.com/hetpatel1b">
     <p align="center">
      <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=dark&border_colour=white&icon_color=ff4080&title_color=White&hide_border=true&text_color=c8c8c8&count_private=true&rank_icon=github"/>
-      <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
+     
 </a>
 
 ---
