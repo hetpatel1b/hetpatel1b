@@ -1,3 +1,7 @@
+<img src="https://gitlyy.vercel.app/api/profile?username=hetpatel1b&hide_border=true"/>
+
+<img src="https://gitlyy.vercel.app/api/streak?username=YOUR_USERNAME&hide_border=true"/>
+
 👋 Hi, I'm Het Patel  
 
 🎓 Computer Engineering Student  
@@ -104,6 +108,7 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetpatel1b&theme=github_dark&hide_border=true"/>
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetpatel1b&theme=github_dark&border_color=white"/>
 <img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/working-hours?username=YOUR_USERNAME&hide_border=true"/>
 
 </a>
 <div align=center>
