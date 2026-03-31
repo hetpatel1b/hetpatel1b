@@ -103,12 +103,13 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
     <p align="center">
      <img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/>
      <img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
+      <img src="https://gitlyy.vercel.app/api/contribution?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
     </p>
 
 </a>
 <div align=center>
  
-  
+<img src="https://gitlyy.vercel.app/api/commits?username=YOUR_USERNAME&hide_border=true"/>  
 
 ---
 
