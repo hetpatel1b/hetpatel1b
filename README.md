@@ -102,12 +102,8 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
   <a href="https://github.com/hetpatel1b">
     <p align="center">
      <img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/>
-     
-      <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
-      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetpatel1b&theme=github_dark&hide_border=true"/>
-      <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetpatel1b&theme=github_dark&border_color=white"/>
-<img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
-
+     <img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
+    </p>
 
 </a>
 <div align=center>
