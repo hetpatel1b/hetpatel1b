@@ -103,6 +103,7 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
     <p align="center">
      <img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/><br>
      <img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/><br>
+      <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
       <img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&layout=compact&hide_border=true"/><br>
     </p>
 
