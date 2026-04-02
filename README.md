@@ -46,7 +46,7 @@ I enjoy learning new technologies and creating projects that combine **software 
 ## 📚 Currently Learning
 
 - Advanced Python Programming
-- Data Structures & Algorithms
+- Data Structures & Algorithms in CPP
 - Artificial Intelligence & Machine Learning
 - Cloud Computing (AWS basics)
 - System Design Basics
@@ -76,16 +76,6 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
 - Develop intelligent AI-powered applications
 - Work with cloud infrastructure
 - Solve complex real-world problems using technology
-
----
-
-## 📈 What I'm Working Towards
-
-- Mastering **Data Structures & Algorithms**
-- Building **AI-powered applications**
-- Developing **cloud-integrated software systems**
-- Creating strong **real-world projects**
-- Preparing for **Software Engineering & AI roles**
 
 ---
 
