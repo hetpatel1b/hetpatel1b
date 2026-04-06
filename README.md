@@ -106,7 +106,6 @@ My goal is to become a **Software Engineer / AI Engineer** who can:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1b&theme=tokyo-night&hide_border=true" width="95%"/>
-  <img src="https://gitlyy.vercel.app/api/working-hours?username=hetpatel1b&hide_border=true"/>
 </p>
 
 </dev>
