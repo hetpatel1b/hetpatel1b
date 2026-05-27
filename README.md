@@ -1,4 +1,5 @@
-<p align="center"><img src="https://gitlyy.vercel.app/api/profile?username=hetpatel1b&hide_border=true"/>
+<p align="center">
+<img src="https://gitlyy.vercel.app/api/profile?username=hetpatel1b&hide_border=true"/>
 </p>
 
 👋 Hi, I’m Het Patel
