@@ -1,13 +1,13 @@
 <p align="center"><img src="https://gitlyy.vercel.app/api/profile?username=hetpatel1b&hide_border=true"/>
 </p>
 
-👋 Hi, I'm Het Patel  
+👋 Hi, I’m Het Patel
 
-🎓 Computer Engineering Student  
-💻 Aspiring Software Developer interested in Artificial Intelligence, Machine Learning, and Cloud Computing.  
-🚀 Passionate about building real-world software, solving complex problems, and continuously improving my programming and analytical skills.
+🚀 Aspiring Full-Stack (MERN) Developer passionate about building modern web applications and AI-powered solutions.
 
-I enjoy learning new technologies and creating projects that combine **software development, intelligent systems, and scalable cloud solutions.**
+💻 Currently exploring Web Development, GCP, DSA (C++), SQL, DBMS, and Computer Networking while continuously building projects and improving problem-solving skills.
+
+⚡ Learning, building, and growing every day through real-world development and modern technologies.
 
 ---
 
