@@ -13,73 +13,68 @@ I enjoy learning new technologies and creating projects that combine **software 
 
 ## 🧠 Skills & Technologies
 
-### 💻 Programming Languages
-- Python
+💻 Languages
+
 - C
 - C++
 - SQL
 
-### 🖥 Development & Tools
+## 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+## ⚙️ Tools & Platforms
+
 - Git & GitHub
 - VS Code
-- Linux (basic)
+- Firebase
+- GCP (Learning)
 
-### 📚 Core Computer Science
-- Data Structures & Algorithms (Learning)
+## 📚 Core CS
+
+- DSA (C++)
+- DBMS
+- Computer Networking
 - Problem Solving
-- Logical Thinking
-- Memory & System Concepts
-
-### 🤖 AI & Machine Learning (Learning Phase)
-- Python for AI
-- Machine Learning Fundamentals
-- Model Training Concepts
-- Data Handling with Python
-
-### ☁ Cloud Computing
-- Cloud Fundamentals
-- Basic AWS Concepts
-- Scalable Application Concepts
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Currently Learning
 
-- Advanced Python Programming
-- Data Structures & Algorithms in CPP
-- Artificial Intelligence & Machine Learning
-- Cloud Computing (AWS basics)
-- System Design Basics
-- Git & Collaborative Development
+- Full-Stack Web Development (MERN)
+- ReactJS & Modern Frontend
+- Backend Development
+- AI-Powered Web Applications
+- Cloud Technologies (GCP)
 
 ---
 
-## 📂 Projects
+## 💡 Projects
 
-### 📘 User Dictionary Project
-A logic-based project where users can add words and meanings.  
-This project helped me practice **data structures, memory concepts, and basic data storage logic.**
+🔹 EventSphere AI
 
-### 🚀 Upcoming Projects
-- AI-based mini applications  
-- Cloud-based backend services  
-- Algorithm & problem solving projects  
-- Software development projects integrating AI concepts  
+AI-powered event platform focused on networking and smart event experiences.
+
+🔹 ElectionGuide AI
+
+Modern web platform designed to simplify election-related information and user interaction.
+
+🔹 User Dictionary Project
+
+A logic-based application for managing words and meanings while practicing data structures and storage concepts.
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to become a **Software Engineer / AI Engineer** who can:
-
-- Build scalable software systems
-- Develop intelligent AI-powered applications
-- Work with cloud infrastructure
-- Solve complex real-world problems using technology
+To become a modern Full-Stack Developer focused on building scalable, AI-powered web applications and impactful digital solutions.
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Learning • Building • Growing
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/z4Xva9Jr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/het_data_empire?igsh=MTF1ODVydWx5cGF6ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/het-patel-9a090536b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hetpatel1b@gmail.com) 
