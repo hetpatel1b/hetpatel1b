@@ -130,23 +130,23 @@ To become a highly skilled Full Stack Developer capable of building scalable, us
 
 <div align="center">
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=hetpatel1b&hide_border=true"/> 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=github_dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=hetpatel1b&theme=dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://gitlyy.vercel.app/api/commits?username=hetpatel1b&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/commits?username=hetpatel1b&hide_border=true"/> 
 
 </div>
 
