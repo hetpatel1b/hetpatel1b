@@ -134,11 +134,11 @@ To become a highly skilled Full Stack Developer capable of building scalable, us
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hetpatel1b &show_icons=true&theme=github_dark&hide_border=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=github_dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b &theme=github_dark&hide_border=true"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=github_dark&hide_border=true"/> 
 
 <br>
 
